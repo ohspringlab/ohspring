@@ -1,0 +1,1 @@
+Developed a time series forecasting model using XGBoost and LSTM to predict sales for a retail company. Analyzed historical sales data, identified trends, and built a predictive model that improved forecasting accuracy by 10%

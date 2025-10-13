@@ -1,0 +1,3 @@
+We have implemented PPE detection and alert system for working system of oil gas industry.
+It using YOLO12 model and works very well.
+Company: https://www.breathesafety.com/
