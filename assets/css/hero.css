@@ -540,6 +540,12 @@ section .button button:hover{
   color: #faebd7;
   z-index: 4;
 }
+.span1 {
+  font-size: 28px;
+  font-weight: 700;
+  color:  #faebd7;
+  z-index: 4;
+}
 
 .loader span {
   color: #faebd7;
